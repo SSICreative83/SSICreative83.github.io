@@ -16,10 +16,8 @@ header h1 {
 
 header {
     text-align: center;
+    background-color: #87CEEB; /* 天蓝色背景 */
     padding: 20px 0;
-    background-image: url('assets/image/nav-background.png'); /* 使用背景图片 */
-    background-size: cover;
-    background-position: center;
 }
 
 nav ul {
