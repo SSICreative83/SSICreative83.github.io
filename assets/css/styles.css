@@ -56,3 +56,14 @@ footer {
 main {
     text-align: center;
 }
+
+ul {
+    text-align: left; /* 确保列表左对齐 */
+    margin: 0 auto;
+    padding-left: 40px; /* 可根据需要调整 */
+}
+
+main p {
+    text-align: center;
+}
+
