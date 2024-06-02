@@ -7,6 +7,11 @@ body {
 
 h1, h2, h3, h4 {
     color: #0056b3;
+    text-align: left; /* 确保标题左对齐 */
+}
+
+header h1 {
+    text-align: center; /* 首页标题居中 */
 }
 
 header {
@@ -66,5 +71,3 @@ ul {
 main p {
     text-align: left; /* 确保段落左对齐 */
 }
-
-
