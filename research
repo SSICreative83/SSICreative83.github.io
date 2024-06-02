@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research - Jianjiao Chen</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Jianjiao Chen</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="research.html">Research</a></li>
+                <li><a href="publications.html">Publications</a></li>
+                <li><a href="presentations.html">Presentations</a></li>
+                <li><a href="about.html">About</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Research</h2>
+        <p>My research focuses on bioinformatics, machine learning, and data analysis. I have worked on projects involving single-cell sequencing, RNA-Seq, DNA-Seq, and other high-throughput sequencing technologies.</p>
+        <h3>Key Research Areas</h3>
+        <ul>
+            <li>Single-cell sequencing (scRNA-Seq, scATAC-Seq)</li>
+            <li>RNA-Seq, DNA-Seq, ChIP-Seq</li>
+            <li>Machine learning and deep learning in bioinformatics</li>
+            <li>Integration of multi-omics data</li>
+        </ul>
+    </main>
+    <footer>
+        <p>&copy; 2024 Jianjiao Chen. All rights reserved.</p>
+    </footer>
+</body>
+</html>
